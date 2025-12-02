@@ -1,0 +1,28 @@
+envs:
+  agentMode: 'default'
+  visibilityDistance: 10
+  renderDepthImage: True
+  renderInstanceSegmentation: True
+  width: 500
+  height: 500
+  fieldOfView: 100
+  gridSize: 0.1
+  moveMagnitude: 0.25
+  rotateDegree: 90
+  tiltDegree: 90
+  max_steps: 20
+  history_window: 5
+  ai2thor_retry_num: 10
+  visual_prompt: True
+
+dataset:
+  if_RandomizeMaterials: True
+  if_RandomizeLighting: True
+  if_InitialRandomSpawn: True
+  min_distance: 2.5
+  max_distance: 3.0
+  sueeess_threshold: 1
+  eval_dataset: 'base.json'
+  train_scene_obj_pair: 'train_scene_obj_pair.json'
+
+
