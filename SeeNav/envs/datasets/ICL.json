@@ -1,0 +1,214 @@
+{
+        "tasks": [
+        {
+            "targetObjectType": "Pot",
+            "targetObjectIds": "Pot|-01.22|+00.90|-02.36",
+            "target_position": {
+                "x": -1.2190016508102417,
+                "y": 0.9009172916412354,
+                "z": -2.355999708175659
+            },
+            "agentPose": {
+                "position": {
+                    "x": 1.1000001430511475,
+                    "y": 0.900999128818512,
+                    "z": -1.0
+                },
+                "rotation": 270.0,
+                "horizon": 0.0
+            },
+            "scene": "FloorPlan1",
+            "object_to_hide": [],
+            "instruction": "navigate to the Pot in the room and be as close as possible to it"
+        },
+        {
+            "targetObjectType": "Pot",
+            "targetObjectIds": "Pot|+00.89|+00.90|-01.41",
+            "target_position": {
+                "x": 0.8894878625869751,
+                "y": 0.9032002091407776,
+                "z": -1.4123806953430176
+            },
+            "agentPose": {
+                "position": {
+                    "x": -0.8999999761581421,
+                    "y": 0.9009992480278015,
+                    "z": 0.6999999284744263
+                },
+                "rotation": 180.0,
+                "horizon": 0.0
+            },
+            "scene": "FloorPlan2",
+            "object_to_hide": [],
+            "instruction": "navigate to the Pot in the room and be as close as possible to it"
+        },
+        {
+            "targetObjectType": "Bread",
+            "targetObjectIds": "Bread|-01.51|+01.38|+00.66",
+            "target_position": {
+                "x": -1.5136305093765259,
+                "y": 1.3809161186218262,
+                "z": 0.6621981263160706
+            },
+            "agentPose": {
+                "position": {
+                    "x": -0.4000000059604645,
+                    "y": 1.123205542564392,
+                    "z": -1.899999976158142
+                },
+                "rotation": 0.0,
+                "horizon": 0.0
+            },
+            "scene": "FloorPlan3",
+            "object_to_hide": [],
+            "instruction": "navigate to the Bread in the room and be as close as possible to it"
+        },
+        {
+            "targetObjectType": "Microwave",
+            "targetObjectIds": "Microwave|-00.37|+01.11|+00.43",
+            "target_position": {
+                "x": -0.3667587339878082,
+                "y": 1.1131519079208374,
+                "z": 0.43327492475509644
+            },
+            "agentPose": {
+                "position": {
+                    "x": -1.899999976158142,
+                    "y": 0.9009998440742493,
+                    "z": 2.8000001907348633
+                },
+                "rotation": 180.0,
+                "horizon": 0.0
+            },
+            "scene": "FloorPlan4",
+            "object_to_hide": [],
+            "instruction": "navigate to the Microwave in the room and be as close as possible to it"
+        },
+        {
+            "targetObjectType": "CoffeeMachine",
+            "targetObjectIds": "CoffeeMachine|+00.50|+00.90|-02.13",
+            "target_position": {
+                "x": 0.501907229423523,
+                "y": 0.9000000953674316,
+                "z": -2.1251957416534424
+            },
+            "agentPose": {
+                "position": {
+                    "x": 1.399999976158142,
+                    "y": 0.9009991884231567,
+                    "z": 0.699999988079071
+                },
+                "rotation": 180.0,
+                "horizon": 0.0
+            },
+            "scene": "FloorPlan5",
+            "object_to_hide": [],
+            "instruction": "navigate to the CoffeeMachine in the room and be as close as possible to it"
+        },
+        {
+            "targetObjectType": "GarbageCan",
+            "targetObjectIds": "GarbageCan|+01.65|00.00|+00.68",
+            "target_position": {
+                "x": 1.6460013389587402,
+                "y": -0.000766947865486145,
+                "z": 0.679000198841095
+            },
+            "agentPose": {
+                "position": {
+                    "x": -0.4000000059604645,
+                    "y": 0.9009991884231567,
+                    "z": 2.700000047683716
+                },
+                "rotation": 90.0,
+                "horizon": 0.0
+            },
+            "scene": "FloorPlan6",
+            "object_to_hide": [],
+            "instruction": "navigate to the GarbageCan in the room and be as close as possible to it"
+        },
+        {
+            "targetObjectType": "CoffeeMachine",
+            "targetObjectIds": "CoffeeMachine|-01.11|+00.90|-01.73",
+            "target_position": {
+                "x": -1.1119968891143799,
+                "y": 0.900580108165741,
+                "z": -1.7269974946975708
+            },
+            "agentPose": {
+                "position": {
+                    "x": 0.8000000715255737,
+                    "y": 0.9009991884231567,
+                    "z": 0.19999998807907104
+                },
+                "rotation": 270.0,
+                "horizon": 0.0
+            },
+            "scene": "FloorPlan7",
+            "object_to_hide": [],
+            "instruction": "navigate to the CoffeeMachine in the room and be as close as possible to it"
+        },
+        {
+            "targetObjectType": "Bowl",
+            "targetObjectIds": "Bowl|+01.02|+00.90|-00.52",
+            "target_position": {
+                "x": 1.0221045017242432,
+                "y": 0.856065571308136,
+                "z": -0.5185348391532898
+            },
+            "agentPose": {
+                "position": {
+                    "x": -1.5,
+                    "y": 0.9009991884231567,
+                    "z": -0.699999988079071
+                },
+                "rotation": 90.0,
+                "horizon": 0.0
+            },
+            "scene": "FloorPlan8",
+            "object_to_hide": [],
+            "instruction": "navigate to the Bowl in the room and be as close as possible to it"
+        },
+        {
+            "targetObjectType": "GarbageCan",
+            "targetObjectIds": "GarbageCan|-01.97|-00.03|+01.36",
+            "target_position": {
+                "x": -1.9655802249908447,
+                "y": -0.02942940592765808,
+                "z": 1.3585395812988281
+            },
+            "agentPose": {
+                "position": {
+                    "x": 0.800000011920929,
+                    "y": 0.9009991884231567,
+                    "z": 0.30000001192092896
+                },
+                "rotation": 270.0,
+                "horizon": 0.0
+            },
+            "scene": "FloorPlan9",
+            "object_to_hide": [],
+            "instruction": "navigate to the GarbageCan in the room and be as close as possible to it"
+        },
+        {
+            "targetObjectType": "Toaster",
+            "targetObjectIds": "Toaster|+00.98|+00.90|+00.33",
+            "target_position": {
+                "x": 0.9840067625045776,
+                "y": 0.9000058770179749,
+                "z": 0.3290005028247833
+            },
+            "agentPose": {
+                "position": {
+                    "x": -1.8000000715255737,
+                    "y": 0.9009992480278015,
+                    "z": 1.4000000953674316
+                },
+                "rotation": 90.0,
+                "horizon": 0.0
+            },
+            "scene": "FloorPlan10",
+            "object_to_hide": [],
+            "instruction": "navigate to the Toaster in the room and be as close as possible to it"
+        }   
+    ]
+}
