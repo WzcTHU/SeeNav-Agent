@@ -79,7 +79,9 @@ Hint: you need to first set your endpoint, API-key and api_version in [`SeeNav/p
 2. Run the following command:
 
 ```bash
-bash verl-agent/examples/srgpo_trainer/run_ebnav.sh
+conda activate <your_env_for_train>
+cd verl-agent
+bash examples/srgpo_trainer/run_ebnav.sh
 ```
 
 ## 📚 Citation
