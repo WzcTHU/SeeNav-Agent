@@ -54,9 +54,9 @@ We propose [**SeeNav-Agent**](https://arxiv.org/abs/xxxxxxxx), a novel LVLM-base
 
 ### Setup
 
-1. Setup a seperate environment for evaluation according to: [EmbodiedBench-Nav](https://github.com/langfengQ/verl-agent) and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-Ins.
+1. Setup a seperate environment for evaluation according to: [EmbodiedBench-Nav](https://github.com/EmbodiedBench/EmbodiedBench) and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-Ins.
 
-2. Setup a seperate training environment according to: [verl-agent]([./osworld/README.md](https://github.com/langfengQ/verl-agent)) and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-Ins.
+2. Setup a seperate training environment according to: [verl-agent](https://github.com/langfengQ/verl-agent) and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-Ins.
 
 ### Evaluation
 
