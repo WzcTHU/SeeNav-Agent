@@ -1,13 +1,13 @@
 # <img src="./SeeNav/figs/title_icon.png" width="28" height="28"> SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization
 
-[![Static Badge](https://img.shields.io/badge/arXiv-xxxxxxxx-green)](https://arxiv.org/abs/xxxxxxxx)
+[![Static Badge](https://img.shields.io/badge/arXiv-2512.02631-green)](https://arxiv.org/abs/2512.02631)
 [![Static Badge](https://img.shields.io/badge/🤗&nbsp;-HuggingFace-blue)](https://huggingface.co/wangzc9865/SeeNav-Agent)
 
-We propose [**SeeNav-Agent**](https://arxiv.org/abs/xxxxxxxx), a novel LVLM-based embodied navigation framework that includes a zero-shot dual-view visual prompt technique for the input side and an efficient RFT algorithm named SRGPO for post-training.
+We propose [**SeeNav-Agent**](https://arxiv.org/abs/2512.02631), a novel LVLM-based embodied navigation framework that includes a zero-shot dual-view visual prompt technique for the input side and an efficient RFT algorithm named SRGPO for post-training.
 
 **🔥 Updates**
 
-- [x] **2025/12/5**: Release our paper and model checkpoints.
+- [x] **2025/12/3**: Release our paper and model checkpoints.
 
 ## 🚀 Highlights
 
@@ -54,9 +54,9 @@ We propose [**SeeNav-Agent**](https://arxiv.org/abs/xxxxxxxx), a novel LVLM-base
 
 ### Setup
 
-1. Setup a seperate environment for evaluation according to: [EmbodiedBench-Nav](https://github.com/EmbodiedBench/EmbodiedBench) and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-Ins.
+1. Setup a seperate environment for evaluation according to: [EmbodiedBench-Nav](https://github.com/EmbodiedBench/EmbodiedBench) and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-3B-Instruct.
 
-2. Setup a seperate training environment according to: [verl-agent](https://github.com/langfengQ/verl-agent) and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-Ins.
+2. Setup a seperate training environment according to: [verl-agent](https://github.com/langfengQ/verl-agent) and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-3B-Instruct.
 
 ### Evaluation
 
@@ -92,7 +92,7 @@ If you find this work helpful in your research, please consider citing:
 @article{wang2025seenav,
   title={SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization},
   author={Zhengcheng Wang and Zichuan Lin and Yijun Yang and Haobo Fu and Deheng Ye},
-  journal={arXiv preprint arXiv:xxxxxxxx},
+  journal={arXiv preprint arXiv:2512.02631},
   year={2025}
 }
 ```
