@@ -15,7 +15,7 @@ We propose [**SeeNav-Agent**](https://arxiv.org/abs/2512.02631), a novel LVLM-ba
 
 * 🗲 **Efficient Step-Level Advantage Calculation:** Step-Level groups are randomly sampled from the entire batch.
 
-* 📈 **Significant Gains:** +21.7pp (GPT4.1+VP) and +5.6pp (Qwen2.5-VL-3B+VP+SRGPO) improvements on EmbodiedBench-Navigation.
+* 📈 **Significant Gains:** +20.0pp (GPT4.1+VP) and +5.6pp (Qwen2.5-VL-3B+VP+SRGPO) improvements on EmbodiedBench-Navigation.
 
 ## 📖 Summary
 <div style="text-align: center;">
