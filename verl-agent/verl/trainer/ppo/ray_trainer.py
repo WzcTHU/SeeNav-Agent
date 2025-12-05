@@ -1381,9 +1381,6 @@ class RayPPOTrainer:
                     # print('######################### validate #########################')
                     if self.val_reward_fn is not None and self.config.trainer.test_freq > 0 and (is_last_step or self.global_steps % self.config.trainer.test_freq == 0):
                         with _timer("testing", timing_raw):
-                            val_idx = epoch % 10 # ood画图用，后续要移除
-                            self.val_envs.set_val_env_start_idx(self.config.data.val_batch_size * val_idx)    # ood画图用，后续要移除
-
                             val_metrics: dict = self._validate()
                             if is_last_step:
                                 last_val_metrics = val_metrics
