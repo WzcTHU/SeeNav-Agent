@@ -54,16 +54,16 @@ We propose [**SeeNav-Agent**](https://arxiv.org/abs/2512.02631), a novel LVLM-ba
 
 ### Setup
 
-1. Setup a seperate environment for evaluation according to: [EmbodiedBench-Nav](https://github.com/EmbodiedBench/EmbodiedBench) and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-3B-Instruct.
+1. Setup a separate environment for evaluation according to: [EmbodiedBench-Nav](https://github.com/EmbodiedBench/EmbodiedBench) and [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-3B-Instruct.
 
-2. Clone the evaluation environment to a seperate training environment by:
+2. Clone the evaluation environment to a separate training environment by:
 
 ```bash
 conda create --name <your_env_for_train> --clone <your_env_for_eval> 
 conda activate <your_env_for_train>
 ```
 
-3. Further setup the seperate training environment according to: [verl-agent](https://github.com/langfengQ/verl-agent) and also [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-3B-Instruct.
+3. Further setup the separate training environment according to: [verl-agent](https://github.com/langfengQ/verl-agent) and also [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) to support Qwen2.5-VL-3B-Instruct.
 
 ### Evaluation
 
